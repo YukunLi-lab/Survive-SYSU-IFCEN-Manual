@@ -54,7 +54,7 @@ def masters_chart(output):
     fig = plt.figure(figsize=(11.6,8.5), facecolor='white')
     ax = fig.add_axes([.12,.225,.78,.58])
     fig.text(.055,.95,'硕士毕业去向',fontsize=23,fontweight='bold',color=INK)
-    fig.text(.055,.902,'2016-2025届  |  按来源原始栏目呈现人数',fontsize=13,color=GREY)
+    fig.text(.055,.902,'2016-2025届  |  人数与待定状态',fontsize=13,color=GREY)
     for i, row in enumerate(records):
         work, study, total = (int(row[k]) for k in ['work_column','further_study_column','total'])
         assert work + study == total
@@ -69,14 +69,13 @@ def masters_chart(output):
     ax.set_yticks(range(len(records)),[r['year']+(' †' if int(r['work_pending_included'])+int(r['study_pending_included']) else '') for r in records])
     ax.set_ylim(len(records)-.45,-.7)
     style_axis(ax,90,[0,20,40,60,80])
-    legend=[Patch(facecolor=BLUE,label='原资料工作栏'),Patch(facecolor=ORANGE,label='原资料深造/读博栏'),Patch(facecolor='white',edgecolor=INK,hatch='////',label='其中待定（已计入原栏）')]
+    legend=[Patch(facecolor=BLUE,label='工作栏'),Patch(facecolor=ORANGE,label='深造/读博栏'),Patch(facecolor='white',edgecolor=INK,hatch='////',label='其中待定（已计入原栏）')]
     fig.legend(handles=legend,loc='upper left',bbox_to_anchor=(.11,.867),ncol=3,frameon=False,fontsize=11,columnspacing=1.6,handlelength=1.8)
     notes=[
-        '来源：2016-2021为2022 PDF历史附图；2022-2025为各届PDF正文。不同版本另见正文对照表。',
         '†2018深造栏含待定1人；2021工作栏含待定1人。2024本届无专业硕士毕业生。',
         '“深造”还包括读硕等去向，不能一概称为读博；各年统计时间和样本构成不同。',
     ]
-    for y,text in zip([.135,.095,.055],notes):
+    for y,text in zip([.115,.065],notes):
         fig.text(.055,y,text,fontsize=10,color=GREY)
     fig.savefig(output,dpi=180,facecolor='white',metadata={'Title':'2016-2025届硕士毕业去向','Description':'原资料栏目人数；待定斜线已计入所在栏目。详见data/graduate-outcomes。'})
     plt.close(fig)
@@ -114,12 +113,11 @@ def undergraduate_chart(output):
     style_axis(right,36,[0,10,20,30])
     fig.legend(handles=[Patch(facecolor=BLUE,label='内地'),Patch(facecolor=ORANGE,label='内地以外（含香港）')],loc='upper left',bbox_to_anchor=(.115,.858),ncol=2,frameon=False,fontsize=11)
     notes=[
-        '来源：2021-2023升学人数按原文院校列表加总；2024-2025升学及2024就业为正文直接给出。',
-        '*2025就业29人由原图17根柱逐项加总；2021-2023未给就业人数，不能按零处理。',
+        '*2025已列就业29人；2021-2023未给就业人数，不能按零处理。',
         '2024内地以外1人；2025“升学”69人包含语言学校1人，不能全部称为研究生录取。',
         '未披露本科总人数，因此升学与就业不拼成100%去向图；去向落实率也不等同于升学率。',
     ]
-    for y,text in zip([.18,.135,.09,.045],notes):
+    for y,text in zip([.16,.105,.05],notes):
         fig.text(.055,y,text,fontsize=10,color=GREY)
     fig.savefig(output,dpi=180,facecolor='white',metadata={'Title':'2021-2025届本科已披露毕业去向','Description':'升学按办学地整理；就业缺失不等于零，未推测毕业总数。'})
     plt.close(fig)

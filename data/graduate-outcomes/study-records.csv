@@ -1,0 +1,125 @@
+degree,cohort,institution,school_group,target_degree,count
+bachelor,2021,上海交通大学,清北复交,unspecified,1
+bachelor,2021,中国原子能科学研究院,科研院所,unspecified,1
+bachelor,2021,中山大学,中大本校,unspecified,45
+bachelor,2021,清华大学,清北复交,unspecified,1
+bachelor,2021,西安交通大学,西交,unspecified,1
+bachelor,2022,上海交通大学,清北复交,unspecified,1
+bachelor,2022,中山大学,中大本校,unspecified,43
+bachelor,2022,圣埃蒂安高等矿业学院（Mines Saint-Étienne）,境外未列综合排名,unspecified,1
+bachelor,2022,圣埃蒂安高等矿业学院（Mines Saint-Étienne）,境外未列综合排名,unspecified,1
+bachelor,2022,埃塞克商学院,境外未列综合排名,unspecified,1
+bachelor,2022,巴黎综合理工学院（École Polytechnique）,QS前200,unspecified,2
+bachelor,2022,核工业西南物理研究院,科研院所,unspecified,1
+bachelor,2022,清华大学,清北复交,unspecified,6
+bachelor,2022,西安交通大学,西交,unspecified,1
+bachelor,2022,香港城市大学,QS前200,unspecified,1
+bachelor,2022,香港理工大学,QS前200,unspecified,1
+bachelor,2023,IMT Nord Europe,境外未列综合排名,unspecified,1
+bachelor,2023,中国科学院大学,其他内地高校,unspecified,1
+bachelor,2023,中山大学,中大本校,unspecified,31
+bachelor,2023,巴黎综合理工学院（École Polytechnique）,QS前200,unspecified,3
+bachelor,2023,拉蒙尤以大学,QS201-500,unspecified,1
+bachelor,2023,清华大学,清北复交,unspecified,2
+bachelor,2023,牛津大学,QS前200,unspecified,1
+bachelor,2024,中国工程物理研究院,科研院所,unspecified,1
+bachelor,2024,中国科学技术大学,其他211,unspecified,1
+bachelor,2024,中山大学,中大本校,unspecified,44
+bachelor,2024,哈尔滨工程大学,其他211,unspecified,1
+bachelor,2024,墨尔本大学,QS前200,unspecified,1
+bachelor,2024,核工业西南物理研究院,科研院所,unspecified,1
+bachelor,2024,清华大学,清北复交,unspecified,3
+bachelor,2025,东京大学,QS前200,unspecified,1
+bachelor,2025,东京太阳树语言学校,境外未列综合排名,non_degree,1
+bachelor,2025,中国原子能科学研究院,科研院所,unspecified,2
+bachelor,2025,中国科学院大学,其他内地高校,unspecified,1
+bachelor,2025,中山大学,中大本校,unspecified,54
+bachelor,2025,哈尔滨工程大学,其他211,unspecified,1
+bachelor,2025,墨尔本大学,QS前200,unspecified,1
+bachelor,2025,新南威尔士大学,QS前200,unspecified,2
+bachelor,2025,曼彻斯特大学,QS前200,unspecified,1
+bachelor,2025,清华大学,清北复交,unspecified,2
+bachelor,2025,西安交通大学,西交,unspecified,2
+bachelor,2025,香港城市大学（东莞）,其他内地高校,unspecified,1
+master,2016,CEA Marcoule,境外未列综合排名,doctor,1
+master,2016,CEA Saclay,境外未列综合排名,doctor,4
+master,2016,EDF,境外未列综合排名,doctor,2
+master,2016,Grenoble-INP SIMAP,境外未列综合排名,doctor,1
+master,2016,Rutgers University Business School,境外未列综合排名,master,1
+master,2016,南特矿业学院（Mines Nantes）,境外未列综合排名,doctor,2
+master,2016,巴黎高等化学学院（Chimie ParisTech）,QS前200,doctor,1
+master,2017,CEA Cadarache,境外未列综合排名,doctor,1
+master,2017,CEA Saclay,境外未列综合排名,doctor,5
+master,2017,EDF、ENSMA,境外未列综合排名,doctor,1
+master,2017,ESCP商学院,境外未列综合排名,master,1
+master,2017,Grenoble-INP SIMAP,境外未列综合排名,doctor,1
+master,2017,ICSM Marcoule,境外未列综合排名,doctor,2
+master,2017,中山大学,中大本校,doctor,1
+master,2017,南加州大学,QS前200,master,1
+master,2017,南特矿业学院（Mines Nantes）,境外未列综合排名,doctor,1
+master,2017,卡内基梅隆大学,QS前200,master,1
+master,2017,巴黎高等化学学院（Chimie ParisTech）,QS前200,doctor,1
+master,2018,CEA,境外未列综合排名,doctor,4
+master,2018,Institut de physique nucléaire d’Orsay、Université Paris-Saclay,QS前200,doctor,1
+master,2018,Subatech、IMT Atlantique,境外未列综合排名,doctor,2
+master,2018,东京大学,QS前200,doctor,1
+master,2018,巴黎萨克雷大学,QS前200,doctor,1
+master,2018,待定,待定,pending,1
+master,2018,索邦大学,QS前200,doctor,2
+master,2018,艾克斯-马赛大学,QS201-500,doctor,1
+master,2018,蒙彼利埃大学,QS201-500,doctor,1
+master,2018,里尔大学,QS500+,doctor,1
+master,2019,CEA,境外未列综合排名,doctor,1
+master,2019,RWTH Aachen University,QS前200,doctor,1
+master,2019,东京大学,QS前200,doctor,2
+master,2019,中山大学,中大本校,doctor,1
+master,2019,南特大学,QS500+,doctor,1
+master,2019,哈尔滨工业大学,其他211,doctor,1
+master,2019,巴黎十一大（Paris-Sud）,QS前200,doctor,1
+master,2019,巴黎萨克雷大学,QS前200,doctor,1
+master,2019,巴黎高等化学学院（Chimie ParisTech）,QS前200,doctor,1
+master,2019,拉瓦尔大学,QS201-500,doctor,1
+master,2019,洛林大学,QS500+,doctor,1
+master,2019,索邦大学,QS前200,doctor,2
+master,2019,蒙彼利埃大学,QS201-500,doctor,2
+master,2019,香港城市大学,QS前200,doctor,1
+master,2020,IMT Atlantique,境外未列综合排名,doctor,2
+master,2020,上海交通大学,清北复交,doctor,1
+master,2020,东京大学,QS前200,doctor,1
+master,2020,中山大学,中大本校,doctor,4
+master,2020,九州大学,QS前200,doctor,1
+master,2020,艾克斯-马赛大学,QS201-500,doctor,1
+master,2021,CEA,境外未列综合排名,doctor,2
+master,2021,东京大学,QS前200,doctor,2
+master,2021,中国科学技术大学,其他211,doctor,1
+master,2021,中国科学院近代物理研究所,科研院所,doctor,1
+master,2021,中山大学,中大本校,doctor,11
+master,2021,巴黎国立高等工程技术学校（Arts et Métiers）,境外未列综合排名,doctor,2
+master,2021,巴黎萨克雷大学,QS前200,doctor,1
+master,2021,韦仕敦大学,QS前200,doctor,1
+master,2021,香港城市大学,QS前200,doctor,1
+master,2022,上海交通大学,清北复交,doctor,2
+master,2022,东京大学,QS前200,doctor,2
+master,2022,中国科学技术大学,其他211,doctor,1
+master,2022,中国科学院大学,其他内地高校,doctor,1
+master,2022,中山大学,中大本校,doctor,9
+master,2022,天津大学,其他211,doctor,1
+master,2022,新加坡国立大学,QS前200,doctor,1
+master,2022,索邦大学,QS前200,doctor,1
+master,2022,西安交通大学,西交,doctor,1
+master,2022,香港城市大学,QS前200,doctor,1
+master,2023,上海交通大学,清北复交,doctor,1
+master,2023,中山大学,中大本校,doctor,11
+master,2023,清华大学,清北复交,doctor,1
+master,2023,西安交通大学,西交,doctor,1
+master,2023,香港城市大学,QS前200,doctor,1
+master,2023,香港理工大学,QS前200,doctor,2
+master,2023,香港科技大学,QS前200,doctor,1
+master,2024,中国工程物理研究院研究生院,科研院所,doctor,1
+master,2024,中山大学,中大本校,doctor,3
+master,2025,上海交通大学,清北复交,doctor,2
+master,2025,东京大学,QS前200,doctor,1
+master,2025,中国原子能科学研究院,科研院所,doctor,1
+master,2025,中山大学,中大本校,doctor,8
+master,2025,电子科技大学,其他211,doctor,1
+master,2025,香港理工大学,QS前200,doctor,1
