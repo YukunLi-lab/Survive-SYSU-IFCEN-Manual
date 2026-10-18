@@ -13,6 +13,7 @@ import html
 import os
 from pathlib import Path
 import re
+import struct
 import sys
 from urllib.parse import unquote, urlsplit
 
@@ -25,6 +26,23 @@ BINARY_SUFFIXES = {
     ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".exe", ".dll", ".pyc",
     ".mp3", ".mp4", ".wav", ".woff", ".woff2", ".ttf", ".otf",
 }
+FIGURES_DIR = Path("assets/figures")
+PNG_SIGNATURE = b"\x89PNG\r\n\x1a\n"
+
+
+def valid_png_header(path: Path) -> bool:
+    """验证 PNG 签名、首个 IHDR 块与正数宽高；不需要第三方图像库。"""
+    try:
+        with path.open("rb") as source:
+            header = source.read(33)
+    except OSError:
+        return False
+    if len(header) != 33 or header[:8] != PNG_SIGNATURE:
+        return False
+    if header[8:12] != b"\x00\x00\x00\r" or header[12:16] != b"IHDR":
+        return False
+    width, height = struct.unpack(">II", header[16:24])
+    return width > 0 and height > 0
 
 
 def hide_code(text: str) -> str:
@@ -197,8 +215,12 @@ class Checker:
                     continue
                 if name.casefold() in {"gitbook.yaml", "download"} or re.fullmatch(r"README \(\d+\)\.md", name, re.I):
                     self.fail(f"{relative}：存在旧文件残留，请按正文位置整理或移除。")
+                if path.suffix.casefold() == ".png" and path.relative_to(self.root).parent == FIGURES_DIR:
+                    if not valid_png_header(path):
+                        self.fail(f"{relative}：数据图须为具有有效 PNG 签名、IHDR 和正数尺寸的文件。")
+                    continue
                 if path.suffix.casefold() in BINARY_SUFFIXES:
-                    self.fail(f"{relative}：本仓库只保留文字源码，请移除 PDF、图片、压缩包等附件。")
+                    self.fail(f"{relative}：仅允许 assets/figures/ 中的 PNG 数据图，请移除其他图片、PDF、压缩包等附件。")
                 try:
                     value = path.read_text(encoding="utf-8-sig")
                     if any(ord(char) < 32 and char not in "\n\r\t" for char in value):
@@ -375,7 +397,7 @@ class Checker:
             for number, problem in enumerate(self.problems, 1):
                 print(f"{number}. {problem}")
             return 1
-        print(f"检查通过：{len(self.documents)} 篇 Markdown、{links} 个链接，目录、入口、文件名与纯文本要求均符合。")
+        print(f"检查通过：{len(self.documents)} 篇 Markdown、{links} 个链接，目录、入口、文件名与文件格式要求均符合。")
         print("说明：外部网址未联网检查；本地标题片段按 GitHub 常用规则检查。")
         return 0
 

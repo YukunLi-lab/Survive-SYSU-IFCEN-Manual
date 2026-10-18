@@ -1,0 +1,60 @@
+{
+  "compiled_date": "2026-10-18",
+  "page_numbering": "PDF文件页码，从1开始",
+  "files": [
+    {
+      "source_id": "pdf2021",
+      "filename": "中法核2021就业数据.pdf",
+      "sha256": "20e79d38258bd264668e9052ca927342689c4683f33d6c71e48c26a49844e6a3",
+      "pages": 9,
+      "source_type": "用户提供的扫描PDF",
+      "public_original_url": null
+    },
+    {
+      "source_id": "pdf2022",
+      "filename": "中法核2022就业数据.pdf",
+      "sha256": "c2dcb86854e72eaea24cff8ce49c0275e479994f0beabfef8780857e3af5def8",
+      "pages": 9,
+      "source_type": "用户提供的扫描PDF",
+      "public_original_url": null
+    },
+    {
+      "source_id": "pdf2023",
+      "filename": "中法核2023就业数据.pdf",
+      "sha256": "b176bf1303b2f3777c16add481fc125333ebe5715d4e72197d85280c9c877fcb",
+      "pages": 6,
+      "source_type": "用户提供的扫描PDF",
+      "public_original_url": null
+    },
+    {
+      "source_id": "pdf2024",
+      "filename": "中法核2024就业数据.pdf",
+      "sha256": "9d0e76c706d4b7c5decb3ae2770fbd679871e0c6523e7d4834acc6f0c3142129",
+      "pages": 6,
+      "source_type": "用户提供的扫描PDF",
+      "public_original_url": null
+    },
+    {
+      "source_id": "pdf2025",
+      "filename": "中法核2025就业数据.pdf",
+      "sha256": "b723c96f72f97cbed15e2697788ee7437491e836b928c9c7dff380e6717a3d92",
+      "pages": 6,
+      "source_type": "用户提供的扫描PDF",
+      "public_original_url": null
+    },
+    {
+      "source_id": "historical_jpg",
+      "filename": "codex-clipboard-09e938d1-dfb0-45da-8579-a292956a594d.jpg",
+      "display_title": "2016—2021届硕士毕业去向长图",
+      "sha256": "b8b1c4398a180fcd465d773a39b78c05e877d220c52e2973a221ebc986995b78",
+      "original_pixels": [
+        1080,
+        3642
+      ],
+      "source_type": "用户提供的原始长图",
+      "public_original_url": null
+    }
+  ],
+  "original_files_modified": false,
+  "original_files_in_repository": false
+}

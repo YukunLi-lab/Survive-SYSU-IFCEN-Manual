@@ -1,0 +1,2312 @@
+{
+  "early_historical_image": {
+    "source_id": "historical_jpg",
+    "rows": [
+      {
+        "year": 2016,
+        "degree": "master",
+        "source": "user_attached_historical_jpg",
+        "total": 79,
+        "work_source_column": 65,
+        "further_study_source_column": 14,
+        "header_verified": true,
+        "header_year_conflict": false,
+        "study_detail": [
+          {
+            "source_label": "CEA Saclay",
+            "count": 3,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "CEA Cadarache",
+            "count": 2,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Grenoble-INP SIMAP",
+            "count": 2,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "IMT Atlantique、SUBATECH",
+            "count": null,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "count clipped at original image right edge"
+          },
+          {
+            "source_label": "ICSM Marcoule",
+            "count": 1,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Chimie Paristech",
+            "count": 1,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "EDF",
+            "count": 2,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Rutgers University Business School",
+            "count": 1,
+            "group": "USA flag group",
+            "degree": "Master",
+            "confidence": "clear"
+          }
+        ],
+        "study_group_totals": {
+          "USA_master_clear": 1,
+          "France_PhD_total": null
+        },
+        "notes": [
+          "The IMT Atlantique / SUBATECH count is cut at x=1080 in the original JPG. Do not infer from subtraction. France country total is not directly printed. Further-study headline 14 is fully clear."
+        ]
+      },
+      {
+        "year": 2017,
+        "degree": "master",
+        "source": "user_attached_historical_jpg",
+        "total": 69,
+        "work_source_column": 53,
+        "further_study_source_column": 16,
+        "header_verified": true,
+        "header_year_conflict": false,
+        "study_detail": [
+          {
+            "source_label": "中山大学中法核 SYSU IFCEN",
+            "count": 1,
+            "group": "China flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "EDF",
+            "count": 1,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "CEA Saclay",
+            "count": 5,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "ICSM Marcoule",
+            "count": 2,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Chimie ParisTech",
+            "count": 1,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "CEA Cadarache",
+            "count": 1,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Université Grenoble Alpes",
+            "count": 1,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "École Mine de Nantes",
+            "count": 1,
+            "group": "France flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "ESCP Business",
+            "count": 1,
+            "group": "France flag group",
+            "degree": "Master",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Carnegie Mellon",
+            "count": 1,
+            "group": "USA flag group",
+            "degree": "Master",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "USC",
+            "count": 1,
+            "group": "USA flag group",
+            "degree": "Master",
+            "confidence": "clear"
+          }
+        ],
+        "study_group_totals": {
+          "China_PhD_sum": 1,
+          "France_PhD_sum": 12,
+          "France_master_sum": 1,
+          "USA_master_sum": 2
+        },
+        "notes": [
+          "Country counts are sums of listed rows, not separately printed headline country totals."
+        ]
+      },
+      {
+        "year": 2018,
+        "degree": "master",
+        "source": "user_attached_historical_jpg",
+        "total": 62,
+        "work_source_column": 46,
+        "further_study_source_column": 16,
+        "header_verified": true,
+        "header_year_conflict": false,
+        "study_detail": [
+          {
+            "source_label": "CEA",
+            "count": 4,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "École nationale supérieure de chimie de Paris",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "University of Montpellier",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Institut de physique nucléaire d’Orsay",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "University of Tokyo",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Institute of nuclear physics of EDF",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "source line wrapping ambiguous; count 1 clear"
+          },
+          {
+            "source_label": "Aix-Marseille Université",
+            "count": 2,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Université de Paris-Saclay",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "IMT Atlantique、Subatech",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "count 1 readable; closing bracket clipped"
+          },
+          {
+            "source_label": "巴黎六大",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "巴黎十一大",
+            "count": 1,
+            "group": "France/Japan flag section",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Undecided",
+            "count": 1,
+            "group": "Unresolved",
+            "degree": null,
+            "confidence": "clear"
+          }
+        ],
+        "study_group_totals": null,
+        "notes": [
+          "All further-study rows appear under a PhD heading, but Undecided 1 is not a confirmed destination. The text “Institute of nuclear physics of” wraps to “EDF (1)”; preserve source wording and do not normalize to a particular institution. Country subtotals are not printed."
+        ]
+      },
+      {
+        "year": 2019,
+        "degree": "master",
+        "source": "user_attached_historical_jpg",
+        "total": 64,
+        "work_source_column": 49,
+        "further_study_source_column": 15,
+        "header_verified": true,
+        "header_year_conflict": false,
+        "study_detail": [
+          {
+            "source_label": "École nationale supérieure de chimie de Paris",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Université de Nante",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Université de Paris-Saclay",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Université de Paris-sud",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "CEA",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "SYSU",
+            "count": 1,
+            "group": "Mainland China institution",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Sorbonne University",
+            "count": 2,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Université de Lorraine",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "University of Montpellier",
+            "count": 2,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "RWTH Aachen University",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "University of Tokyo",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Université Laval",
+            "count": 1,
+            "group": "listed destination",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Institute of Technology Harbin",
+            "count": 1,
+            "group": "Mainland China institution",
+            "degree": "PhD",
+            "confidence": "clear"
+          }
+        ],
+        "study_group_totals": {
+          "named_Mainland_China_sum": 2,
+          "other_named_destinations_sum": 13
+        },
+        "notes": [
+          "Work 49 contains a row “Undecided (2)”. Keep the original column total and flag this caveat; it is not proof of 49 confirmed jobs. Flags show France, Germany, Japan and Canada, while SYSU and Harbin are also listed in study rows. Do not use flags alone as a complete destination classification."
+        ]
+      },
+      {
+        "year": 2020,
+        "degree": "master",
+        "source": "user_attached_historical_jpg",
+        "total": 46,
+        "work_source_column": 37,
+        "further_study_source_column": 9,
+        "header_verified": true,
+        "header_year_conflict": false,
+        "study_detail": [
+          {
+            "source_label": "中山大学中法核 SYSU IFCEN",
+            "count": 3,
+            "group": "China flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "上海交通大学 SJTU",
+            "count": 1,
+            "group": "China flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "IMT Atlantique",
+            "count": 2,
+            "group": "France/Japan flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Aix-Marseille Université",
+            "count": 1,
+            "group": "France/Japan flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "东京大学 The University of Tokyo",
+            "count": 1,
+            "group": "France/Japan flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "九州大学 Kyushu University",
+            "count": 1,
+            "group": "France/Japan flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          }
+        ],
+        "study_group_totals": {
+          "Mainland_China_PhD_sum": 4,
+          "France_PhD_sum": 3,
+          "Japan_PhD_sum": 2
+        },
+        "notes": [
+          "All 9 listed as PhD. Country counts are sums of listed rows."
+        ]
+      },
+      {
+        "year": 2021,
+        "degree": "master",
+        "source": "user_attached_historical_jpg",
+        "total": 70,
+        "work_source_column": 45,
+        "further_study_source_column": 25,
+        "header_verified": true,
+        "header_year_conflict": false,
+        "study_detail": [
+          {
+            "source_label": "中山大学中法核 SYSU IFCEN",
+            "count": 11,
+            "group": "China flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "中国科学技术大学 USTC",
+            "count": 1,
+            "group": "China flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "中科院近物所 CAS IMP",
+            "count": 1,
+            "group": "China flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "香港城市大学 CityU",
+            "count": 1,
+            "group": "China flag group; Hong Kong SAR",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Arts et Métiers Paristech",
+            "count": 2,
+            "group": "France/Japan/Canada flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Université Paris-Saclay",
+            "count": 1,
+            "group": "France/Japan/Canada flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "CEA",
+            "count": 2,
+            "group": "France/Japan/Canada flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "The University of Tokyo",
+            "count": 2,
+            "group": "France/Japan/Canada flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "Western University",
+            "count": 1,
+            "group": "France/Japan/Canada flag group",
+            "degree": "PhD",
+            "confidence": "clear"
+          },
+          {
+            "source_label": "待定 (Undecided)",
+            "count": 3,
+            "group": "Unresolved",
+            "degree": null,
+            "confidence": "clear"
+          }
+        ],
+        "study_group_totals": {
+          "Mainland_China_PhD_sum": 13,
+          "Hong_Kong_PhD_sum": 1,
+          "France_PhD_sum": 5,
+          "Japan_PhD_sum": 2,
+          "Canada_PhD_sum": 1,
+          "Unresolved": 3
+        },
+        "notes": [
+          "Further Study 25 contains Undecided 3. Confirmed named study destinations sum to 22. Source draws Hong Kong CityU in its China-flag section; distinguish Mainland 13 and Hong Kong 1 if using domestic/overseas axes."
+        ]
+      }
+    ]
+  },
+  "pdf_2021_2023": {
+    "extraction_basis": "仅用户提供PDF，视觉核对。页码从1开始。百分比保留原文；院校人数之和是计算值；未披露本科总数不反推。",
+    "undergraduates": [
+      {
+        "cohort": 2021,
+        "source": "中法核2021就业数据.pdf",
+        "source_pages": [
+          4
+        ],
+        "original_label": "2021届本科毕业生升学率",
+        "further_study_rate_percent_reported": 79.03,
+        "further_study_count_sum_of_list": 49,
+        "total_graduates": null,
+        "work_count": null,
+        "not_further_study_count": null,
+        "unemployed_count": null,
+        "mainland_study_count_derived_from_list": 49,
+        "overseas_study_including_HK_count_derived_from_list": 0,
+        "institutions": [
+          {
+            "institution": "中山大学",
+            "count": 45,
+            "page": 4
+          },
+          {
+            "institution": "清华大学",
+            "count": 1,
+            "page": 4
+          },
+          {
+            "institution": "上海交通大学",
+            "count": 1,
+            "page": 4
+          },
+          {
+            "institution": "西安交通大学",
+            "count": 1,
+            "page": 4
+          },
+          {
+            "institution": "中国原子能研究院",
+            "count": 1,
+            "page": 4
+          }
+        ],
+        "counts_note": "升学人数为按原文院校列表逐条加总；原文没有本科总人数及完整就业/未就业人数。"
+      },
+      {
+        "cohort": 2022,
+        "source": "中法核2022就业数据.pdf",
+        "source_pages": [
+          3,
+          4
+        ],
+        "original_label": "2022届本科毕业生升学率",
+        "further_study_rate_percent_reported": 74.68,
+        "further_study_count_sum_of_list": 59,
+        "total_graduates": null,
+        "work_count": null,
+        "not_further_study_count": null,
+        "unemployed_count": null,
+        "mainland_study_count_derived_from_list": 52,
+        "overseas_study_including_HK_count_derived_from_list": 7,
+        "institutions": [
+          {
+            "institution": "中山大学",
+            "count": 43,
+            "page": 3
+          },
+          {
+            "institution": "清华大学",
+            "count": 6,
+            "page": 3
+          },
+          {
+            "institution": "巴黎综合理工学院 École Polytechnique",
+            "count": 2,
+            "page": 3
+          },
+          {
+            "institution": "埃塞克商学院",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "西安交通大学",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "核工业西南物理研究院",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "香港理工大学",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "法国圣埃蒂安高等矿业学院 École nationale supérieure des mines de Saint-Étienne",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "香港城市大学",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "圣太田高等矿业工程师学院 École nationale supérieure des ingénieurs des mines de Saint-Étienne",
+            "count": 1,
+            "page": 4
+          },
+          {
+            "institution": "上海交通大学",
+            "count": 1,
+            "page": 4
+          }
+        ],
+        "counts_note": "升学人数为按原文院校列表逐条加总；原文没有本科总人数及完整就业/未就业人数。"
+      },
+      {
+        "cohort": 2023,
+        "source": "中法核2023就业数据.pdf",
+        "source_pages": [
+          3
+        ],
+        "original_label": "2023届本科毕业生升学率",
+        "further_study_rate_percent_reported": 69.0,
+        "further_study_count_sum_of_list": 40,
+        "total_graduates": null,
+        "work_count": null,
+        "not_further_study_count": null,
+        "unemployed_count": null,
+        "mainland_study_count_derived_from_list": 34,
+        "overseas_study_including_HK_count_derived_from_list": 6,
+        "institutions": [
+          {
+            "institution": "中山大学",
+            "count": 31,
+            "page": 3
+          },
+          {
+            "institution": "清华大学",
+            "count": 2,
+            "page": 3
+          },
+          {
+            "institution": "巴黎综合理工学院 École Polytechnique",
+            "count": 3,
+            "page": 3
+          },
+          {
+            "institution": "中国科学院大学",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "法国里尔杜埃国立高等矿业电信学院 imt_nord_europe",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "牛津大学",
+            "count": 1,
+            "page": 3
+          },
+          {
+            "institution": "拉蒙尤以大学 Universitat Ramon Llull",
+            "count": 1,
+            "page": 3
+          }
+        ],
+        "counts_note": "升学人数为按原文院校列表逐条加总；原文没有本科总人数及完整就业/未就业人数。"
+      }
+    ],
+    "masters": [
+      {
+        "cohort": 2021,
+        "source": "中法核2021就业数据.pdf",
+        "source_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "snapshot_date_label": "截至2021-07-07；读博段落截至2021-07-10",
+        "total": 70,
+        "work_original_label": "就业",
+        "work": 46,
+        "further_study_original_label": "读博深造",
+        "further_study": 22,
+        "undetermined": 2,
+        "mainland_study_count_derived_from_list": 13,
+        "overseas_study_including_HK_count_derived_from_list": 9,
+        "institutions": [
+          {
+            "institution": "中山大学",
+            "count": 11,
+            "page": 2
+          },
+          {
+            "institution": "巴黎国立高等工程技术学校 Arts et Métiers Paristech",
+            "count": 2,
+            "page": 2
+          },
+          {
+            "institution": "法国原子能与替代能源委员会 CEA",
+            "count": 2,
+            "page": 2
+          },
+          {
+            "institution": "东京大学",
+            "count": 2,
+            "page": 2
+          },
+          {
+            "institution": "巴黎萨克雷大学",
+            "count": 1,
+            "page": 2
+          },
+          {
+            "institution": "韦仕敦大学 Western University",
+            "count": 1,
+            "page": 2
+          },
+          {
+            "institution": "香港城市大学",
+            "count": 1,
+            "page": 2
+          },
+          {
+            "institution": "中国科学技术大学",
+            "count": 1,
+            "page": 2
+          },
+          {
+            "institution": "中国科学院近代物理研究所",
+            "count": 1,
+            "page": 2
+          }
+        ],
+        "research_assistants_awaiting_doctoral_quota": 3,
+        "research_assistants_note": "原文称在高校或在高校实验室任科研助理，等待博士学位指标；这批在工作栏，不能再叠加到总人数。",
+        "broader_doctoral_intention_percent_reported": 35.7,
+        "percentage_discrepancy_note": "第1页正文深造31%（22人），饼图标32%；以原人数22保留，勿用饼图32%反推。"
+      },
+      {
+        "cohort": 2022,
+        "source": "中法核2022就业数据.pdf",
+        "source_pages": [
+          1,
+          2,
+          3
+        ],
+        "snapshot_date_label": "截至2022-08-31",
+        "total": 73,
+        "work_original_label": "就业",
+        "work": 53,
+        "further_study_original_label": "读博深造",
+        "further_study": 20,
+        "undetermined": 0,
+        "mainland_study_count_derived_from_list": 15,
+        "overseas_study_including_HK_count_derived_from_list": 5,
+        "institutions": [
+          {
+            "institution": "中山大学",
+            "count": 9,
+            "page": 1
+          },
+          {
+            "institution": "上海交通大学",
+            "count": 2,
+            "page": 1
+          },
+          {
+            "institution": "东京大学",
+            "count": 2,
+            "page": 1
+          },
+          {
+            "institution": "中国科学技术大学",
+            "count": 1,
+            "page": 1
+          },
+          {
+            "institution": "西安交通大学",
+            "count": 1,
+            "page": 1
+          },
+          {
+            "institution": "香港城市大学",
+            "count": 1,
+            "page": 1
+          },
+          {
+            "institution": "新加坡国立大学",
+            "count": 1,
+            "page": 1
+          },
+          {
+            "institution": "索邦大学",
+            "count": 1,
+            "page": 1
+          },
+          {
+            "institution": "中国科学院大学",
+            "count": 1,
+            "page": 1
+          },
+          {
+            "institution": "天津大学",
+            "count": 1,
+            "page": 1
+          }
+        ],
+        "research_assistants_awaiting_doctoral_quota": 2,
+        "research_assistants_note": "原文称在高校或在高校实验室任科研助理，等待博士学位指标；这批在工作栏，不能再叠加到总人数。",
+        "broader_doctoral_intention_percent_reported": 30
+      },
+      {
+        "cohort": 2023,
+        "source": "中法核2023就业数据.pdf",
+        "source_pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "snapshot_date_label": "截至2023-10-03",
+        "total": 56,
+        "work_original_label": "就业",
+        "work": 38,
+        "further_study_original_label": "读博深造",
+        "further_study": 18,
+        "undetermined": 0,
+        "mainland_study_count_derived_from_list": 14,
+        "overseas_study_including_HK_count_derived_from_list": 4,
+        "institutions": [
+          {
+            "institution": "中山大学",
+            "count": 11,
+            "page": 1
+          },
+          {
+            "institution": "上海交通大学",
+            "count": 1,
+            "page": 1
+          },
+          {
+            "institution": "西安交通大学",
+            "count": 1,
+            "page": 1
+          },
+          {
+            "institution": "清华大学",
+            "count": 1,
+            "page": 2
+          },
+          {
+            "institution": "香港理工大学",
+            "count": 2,
+            "page": 2
+          },
+          {
+            "institution": "香港科技大学",
+            "count": 1,
+            "page": 2
+          },
+          {
+            "institution": "香港城市大学",
+            "count": 1,
+            "page": 2
+          }
+        ],
+        "research_assistants_awaiting_doctoral_quota": 4,
+        "research_assistants_note": "原文称在高校或在高校实验室任科研助理，等待博士学位指标；这批在工作栏，不能再叠加到总人数。",
+        "broader_doctoral_intention_percent_reported": 39.3
+      }
+    ],
+    "retrospective_2022_update": [
+      {
+        "cohort": 2016,
+        "source": "中法核2022就业数据.pdf",
+        "page": 4,
+        "total": 79,
+        "work": 67,
+        "further_study": 12,
+        "work_original_label": "工作 Work",
+        "further_study_original_label": "深造 Further Study",
+        "snapshot_publication_date": "2022-11-13",
+        "work_includes_explicit_uncertain": 0,
+        "further_study_includes_explicit_undecided": 0,
+        "detail_status": "逐图视觉核对全部标题及明示待定类别；未见明示不等于不存在未披露状态。",
+        "further_study_subtypes_reported": {
+          "doctoral": 11,
+          "second_master": 1
+        }
+      },
+      {
+        "cohort": 2017,
+        "source": "中法核2022就业数据.pdf",
+        "page": 4,
+        "total": 70,
+        "work": 54,
+        "further_study": 16,
+        "work_original_label": "工作 Work",
+        "further_study_original_label": "深造 Further Study",
+        "snapshot_publication_date": "2022-11-13",
+        "work_includes_explicit_uncertain": 0,
+        "further_study_includes_explicit_undecided": 0,
+        "detail_status": "逐图视觉核对全部标题及明示待定类别；未见明示不等于不存在未披露状态。",
+        "further_study_subtypes_reported": {
+          "doctoral": 13,
+          "second_master": 3
+        }
+      },
+      {
+        "cohort": 2018,
+        "source": "中法核2022就业数据.pdf",
+        "page": 5,
+        "total": 68,
+        "work": 53,
+        "further_study": 15,
+        "work_original_label": "工作 Work",
+        "further_study_original_label": "深造 Further Study",
+        "snapshot_publication_date": "2022-11-13",
+        "work_includes_explicit_uncertain": 0,
+        "further_study_includes_explicit_undecided": 1,
+        "detail_status": "逐图视觉核对全部标题及明示待定类别；未见明示不等于不存在未披露状态。"
+      },
+      {
+        "cohort": 2019,
+        "source": "中法核2022就业数据.pdf",
+        "page": 5,
+        "total": 70,
+        "work": 53,
+        "further_study": 17,
+        "work_original_label": "工作 Work",
+        "further_study_original_label": "深造 Further Study",
+        "snapshot_publication_date": "2022-11-13",
+        "work_includes_explicit_uncertain": 0,
+        "further_study_includes_explicit_undecided": 0,
+        "detail_status": "逐图视觉核对全部标题及明示待定类别；未见明示不等于不存在未披露状态。"
+      },
+      {
+        "cohort": 2020,
+        "source": "中法核2022就业数据.pdf",
+        "page": 6,
+        "total": 52,
+        "work": 42,
+        "further_study": 10,
+        "work_original_label": "工作 Work",
+        "further_study_original_label": "深造 Further Study",
+        "snapshot_publication_date": "2022-11-13",
+        "work_includes_explicit_uncertain": 0,
+        "further_study_includes_explicit_undecided": 0,
+        "detail_status": "逐图视觉核对全部标题及明示待定类别；未见明示不等于不存在未披露状态。"
+      },
+      {
+        "cohort": 2021,
+        "source": "中法核2022就业数据.pdf",
+        "page": 6,
+        "total": 73,
+        "work": 51,
+        "further_study": 22,
+        "work_original_label": "工作 Work",
+        "further_study_original_label": "深造 Further Study",
+        "snapshot_publication_date": "2022-11-13",
+        "work_includes_explicit_uncertain": 1,
+        "further_study_includes_explicit_undecided": 0,
+        "detail_status": "逐图视觉核对全部标题及明示待定类别；未见明示不等于不存在未披露状态。"
+      },
+      {
+        "cohort": 2022,
+        "source": "中法核2022就业数据.pdf",
+        "page": 7,
+        "total": 73,
+        "work": 53,
+        "further_study": 20,
+        "work_original_label": "工作 Work",
+        "further_study_original_label": "深造 Further Study",
+        "snapshot_publication_date": "2022-11-13",
+        "work_includes_explicit_uncertain": 0,
+        "further_study_includes_explicit_undecided": 0,
+        "detail_status": "逐图视觉核对全部标题及明示待定类别；未见明示不等于不存在未披露状态。"
+      }
+    ],
+    "warnings": [
+      "2021当年正文70=就业46+已获博士22+待定2；当年附录及用户长图70=工作45+深造25（其中深造包含待定3）；2022附录又更新为73=工作51+深造22。三种口径不能当作同一快照拼合。",
+      "2022附录历年标题数与2021附录/用户长图不一致，应并列保留版本。",
+      "2022本科列表中圣埃蒂安/圣太田两个相近院校名各1人，原文逐条保留，不能静默去重。",
+      "2022硕士当年正文深造列表合计20；附录地图遗漏中国科学院大学1人，地图条目合计19，标题仍20。分地区统计应按正文完整列表。",
+      "2022附录2021工作51内明确列有待定uncertain1；2018深造15内明确列Undecided1。工作/深造标题不是逐项已落实保证。",
+      "本科未升学部分可能含就业、待业、备考、申请，附件没有人数分项，不允许由升学率差额写为就业。"
+    ],
+    "masters_industry": [
+      {
+        "cohort": 2021,
+        "source": "中法核2021就业数据.pdf",
+        "page": 4,
+        "denominator": 46,
+        "categories": [
+          {
+            "label": "核能核科学",
+            "count": 28,
+            "percent_reported": 61
+          },
+          {
+            "label": "IT",
+            "count": 12,
+            "percent_reported": 26
+          },
+          {
+            "label": "教育",
+            "count": 3,
+            "percent_reported": 7
+          },
+          {
+            "label": "能源",
+            "count": 2,
+            "percent_reported": 4
+          },
+          {
+            "label": "其它",
+            "count": 1,
+            "percent_reported": 2
+          }
+        ]
+      },
+      {
+        "cohort": 2022,
+        "source": "中法核2022就业数据.pdf",
+        "page": 3,
+        "denominator": 53,
+        "categories": [
+          {
+            "label": "核能/能源",
+            "count": 29,
+            "percent_reported": 54.7
+          },
+          {
+            "label": "高科技/IT",
+            "count": 11,
+            "percent_reported": 20.8
+          },
+          {
+            "label": "教育/事业",
+            "count": 5,
+            "percent_reported": 9.4
+          },
+          {
+            "label": "公务员",
+            "count": 4,
+            "percent_reported": 7.5
+          },
+          {
+            "label": "管理/工商",
+            "count": 4,
+            "percent_reported": 7.5
+          }
+        ]
+      },
+      {
+        "cohort": 2023,
+        "source": "中法核2023就业数据.pdf",
+        "page": 3,
+        "denominator": 38,
+        "categories": [
+          {
+            "label": "核能/能源",
+            "count": 24,
+            "percent_reported": 63.2
+          },
+          {
+            "label": "高科技/IT",
+            "count": 6,
+            "percent_reported": 15.8
+          },
+          {
+            "label": "教育/事业",
+            "count": 3,
+            "percent_reported": 7.9
+          },
+          {
+            "label": "公务员",
+            "count": 5,
+            "percent_reported": 13.2
+          }
+        ]
+      }
+    ],
+    "retrospective_2021_appendix": [
+      {
+        "cohort": 2016,
+        "source": "中法核2021就业数据.pdf",
+        "page": 5,
+        "total": 79,
+        "work": 65,
+        "further_study": 14,
+        "original_work_label": "工作 Work",
+        "original_study_label": "深造 Further Study",
+        "version_note": "与用户附件长图相同的旧版本，不与2022更新版混用。"
+      },
+      {
+        "cohort": 2017,
+        "source": "中法核2021就业数据.pdf",
+        "page": 5,
+        "total": 69,
+        "work": 53,
+        "further_study": 16,
+        "original_work_label": "工作 Work",
+        "original_study_label": "深造 Further Study",
+        "version_note": "与用户附件长图相同的旧版本，不与2022更新版混用。"
+      },
+      {
+        "cohort": 2018,
+        "source": "中法核2021就业数据.pdf",
+        "page": 5,
+        "total": 62,
+        "work": 46,
+        "further_study": 16,
+        "original_work_label": "工作 Work",
+        "original_study_label": "深造 Further Study",
+        "version_note": "与用户附件长图相同的旧版本，不与2022更新版混用。"
+      },
+      {
+        "cohort": 2019,
+        "source": "中法核2021就业数据.pdf",
+        "page": 6,
+        "total": 64,
+        "work": 49,
+        "further_study": 15,
+        "original_work_label": "工作 Work",
+        "original_study_label": "深造 Further Study",
+        "version_note": "与用户附件长图相同的旧版本，不与2022更新版混用。"
+      },
+      {
+        "cohort": 2020,
+        "source": "中法核2021就业数据.pdf",
+        "page": 6,
+        "total": 46,
+        "work": 37,
+        "further_study": 9,
+        "original_work_label": "工作 Work",
+        "original_study_label": "深造 Further Study",
+        "version_note": "与用户附件长图相同的旧版本，不与2022更新版混用。"
+      },
+      {
+        "cohort": 2021,
+        "source": "中法核2021就业数据.pdf",
+        "page": 6,
+        "total": 70,
+        "work": 45,
+        "further_study": 25,
+        "original_work_label": "工作 Work",
+        "original_study_label": "深造 Further Study",
+        "version_note": "与用户附件长图相同的旧版本，不与2022更新版混用。",
+        "further_study_includes_explicit_undecided": 3
+      }
+    ],
+    "masters_employers": [
+      {
+        "cohort": 2021,
+        "source": "中法核2021就业数据.pdf",
+        "page": 3,
+        "source_label": "硕士就业去向列表",
+        "entries": [
+          {
+            "employer": "中广核研究院有限公司",
+            "count": 6
+          },
+          {
+            "employer": "中广核惠州核电有限公司",
+            "count": 2
+          },
+          {
+            "employer": "中广核苏州热工研究院",
+            "count": 2
+          },
+          {
+            "employer": "中广核工程设计有限公司",
+            "count": 2
+          },
+          {
+            "employer": "中广核铀业发展有限公司",
+            "count": 1
+          },
+          {
+            "employer": "中核集团西南物理研究院",
+            "count": 3
+          },
+          {
+            "employer": "中核集团中国原子能科学研究院",
+            "count": 1
+          },
+          {
+            "employer": "中核集团矿业科技集团",
+            "count": 1
+          },
+          {
+            "employer": "国家电投集团上海核工程研究设计院",
+            "count": 4
+          },
+          {
+            "employer": "国家电投集团科学技术研究院",
+            "count": 1
+          },
+          {
+            "employer": "浙江远算科技有限公司杭州分公司",
+            "count": 7
+          },
+          {
+            "employer": "北京广利核系统工程有限公司",
+            "count": 1
+          },
+          {
+            "employer": "深圳综合粒子设施研究院",
+            "count": 1
+          },
+          {
+            "employer": "中山大学（1人拟升学）",
+            "count": 2
+          },
+          {
+            "employer": "天津大学（拟升学）",
+            "count": 1
+          },
+          {
+            "employer": "深圳市计量质量检测研究院",
+            "count": 1
+          },
+          {
+            "employer": "深圳虾皮信息科技有限公司",
+            "count": 1
+          },
+          {
+            "employer": "深圳大学附属教育集团外国语中学",
+            "count": 1
+          },
+          {
+            "employer": "广州小鹏汽车科技有限公司",
+            "count": 1
+          },
+          {
+            "employer": "广东明阳智能能源集团股份公司",
+            "count": 1
+          },
+          {
+            "employer": "珠海小米通讯技术有限公司",
+            "count": 1
+          },
+          {
+            "employer": "惠州市节能中心",
+            "count": 1
+          },
+          {
+            "employer": "江门华润燃气有限公司",
+            "count": 1
+          },
+          {
+            "employer": "东莞市北辰高级中学",
+            "count": 1
+          },
+          {
+            "employer": "盐城市城南新区开发建设投资有限公司",
+            "count": 1
+          },
+          {
+            "employer": "盐城市盐都区教育局",
+            "count": 1
+          }
+        ],
+        "sum_of_counts": 46,
+        "note": "按原文逐行转录，机构名沿用附件；不由机构名重分类行业。"
+      },
+      {
+        "cohort": 2022,
+        "source": "中法核2022就业数据.pdf",
+        "page": 2,
+        "source_label": "硕士就业去向列表",
+        "entries": [
+          {
+            "employer": "中广核研究院有限公司",
+            "count": 8
+          },
+          {
+            "employer": "中广核工程设计有限公司",
+            "count": 2
+          },
+          {
+            "employer": "中广核苏州热工研究院",
+            "count": 1
+          },
+          {
+            "employer": "中广核大亚湾核电运营管理有限责任公司",
+            "count": 1
+          },
+          {
+            "employer": "浙江远算科技有限公司",
+            "count": 6
+          },
+          {
+            "employer": "中国核动力研究设计院",
+            "count": 2
+          },
+          {
+            "employer": "中国国核上海核工程研究设计院有限公司",
+            "count": 1
+          },
+          {
+            "employer": "中国国核湛江核电有限公司",
+            "count": 1
+          },
+          {
+            "employer": "中国东方电气（广州）重型机器有限公司",
+            "count": 1
+          },
+          {
+            "employer": "南方电网调峰调频发电有限公司",
+            "count": 1
+          },
+          {
+            "employer": "牧今科技（广州）有限责任公司",
+            "count": 1
+          },
+          {
+            "employer": "明阳智慧能源集团股份公司",
+            "count": 2
+          },
+          {
+            "employer": "中山大学",
+            "count": 4
+          },
+          {
+            "employer": "华为技术有限公司",
+            "count": 3
+          },
+          {
+            "employer": "阿里云计算有限公司",
+            "count": 1
+          },
+          {
+            "employer": "思特沃克软件技术（成都）有限公司",
+            "count": 1
+          },
+          {
+            "employer": "深圳虾皮信息科技有限公司",
+            "count": 1
+          },
+          {
+            "employer": "广州得调网络技术有限公司",
+            "count": 1
+          },
+          {
+            "employer": "深圳雷霆数字娱乐有限公司",
+            "count": 1
+          },
+          {
+            "employer": "深圳韶音科技有限公司",
+            "count": 1
+          },
+          {
+            "employer": "腾讯科技有限公司",
+            "count": 1
+          },
+          {
+            "employer": "普华永道管理咨询（上海）有限公司深圳分公司",
+            "count": 1
+          },
+          {
+            "employer": "国家知识产权局专利局专利审查协作广东中心",
+            "count": 1
+          },
+          {
+            "employer": "广州南方投资集团有限公司",
+            "count": 1
+          },
+          {
+            "employer": "安永（中国）企业咨询有限公司广州分公司",
+            "count": 1
+          },
+          {
+            "employer": "佛山市南海区第六人民医院",
+            "count": 1
+          },
+          {
+            "employer": "深圳市第二高级中学",
+            "count": 1
+          },
+          {
+            "employer": "桂林市桂电中学",
+            "count": 1
+          },
+          {
+            "employer": "深圳市福田区教育局",
+            "count": 1
+          },
+          {
+            "employer": "淮南市发改委",
+            "count": 1
+          },
+          {
+            "employer": "佛山科技局",
+            "count": 1
+          },
+          {
+            "employer": "江苏省选调生",
+            "count": 1
+          },
+          {
+            "employer": "宜兴市新建镇人民政府综合服务中心（经济发展局）",
+            "count": 1
+          }
+        ],
+        "sum_of_counts": 53,
+        "note": "按原文逐行转录，机构名沿用附件；不由机构名重分类行业。"
+      },
+      {
+        "cohort": 2023,
+        "source": "中法核2023就业数据.pdf",
+        "page": 2,
+        "source_label": "硕士就业去向列表",
+        "entries": [
+          {
+            "employer": "中广核研究院有限公司",
+            "count": 10
+          },
+          {
+            "employer": "明阳智慧能源集团股份公司",
+            "count": 5
+          },
+          {
+            "employer": "先进能源科学与技术广东省实验室",
+            "count": 3
+          },
+          {
+            "employer": "中山大学",
+            "count": 3
+          },
+          {
+            "employer": "中广核南方科技有限公司",
+            "count": 2
+          },
+          {
+            "employer": "浙江远算科技有限公司杭州分公司",
+            "count": 2
+          },
+          {
+            "employer": "东莞嘉拓日晟智能科技有限公司",
+            "count": 1
+          },
+          {
+            "employer": "广东美的暖通设备有限公司",
+            "count": 1
+          },
+          {
+            "employer": "深圳市新凯来技术有限公司",
+            "count": 1
+          },
+          {
+            "employer": "苏州同元软控信息技术有限公司",
+            "count": 1
+          },
+          {
+            "employer": "广东步步高教育发展有限公司",
+            "count": 1
+          },
+          {
+            "employer": "广州广电运通金融电子股份有限公司",
+            "count": 1
+          },
+          {
+            "employer": "华为技术有限公司",
+            "count": 1
+          },
+          {
+            "employer": "普联技术有限公司",
+            "count": 1
+          },
+          {
+            "employer": "广州市执信中学增城实验学校",
+            "count": 1
+          },
+          {
+            "employer": "广东省国际问题研究中心",
+            "count": 1
+          },
+          {
+            "employer": "江西省委组织部",
+            "count": 1
+          },
+          {
+            "employer": "广东选调生项目",
+            "count": 1
+          },
+          {
+            "employer": "昆明理工大学",
+            "count": 1
+          }
+        ],
+        "sum_of_counts": 38,
+        "note": "按原文逐行转录，机构名沿用附件；不由机构名重分类行业。"
+      }
+    ]
+  },
+  "pdf_2024_2025": {
+    "method": "Attachment-only; pypdf reports 6 pages each, no extractable text. All 12 pages rendered with Poppler at 100dpi; detailed tables/charts also inspected from original embedded images. No external web data substituted. Counts transcribed by visual review.",
+    "files": {
+      "中法核2024就业数据.pdf": {
+        "pages": 6,
+        "article_publication": "2024-10-17 22:58",
+        "article_title": "就业深造 | 2024届就业再创佳绩",
+        "master": {
+          "total": {
+            "value": 18,
+            "source_page": 1,
+            "source_label": "2024届18位硕士毕业生"
+          },
+          "work": {
+            "value": 14,
+            "source_page": 1,
+            "source_label": "77.8%（14人）就业"
+          },
+          "further_study": {
+            "value": 4,
+            "source_page": 1,
+            "source_label": "22.2%（4人）读博深造"
+          },
+          "as_of": "2024-09-25 (master overall); 2024-08-25 (further study subsection)",
+          "note": "原文明确：今年没有专业硕士毕业生，毕业人数比往年少。",
+          "further_study_destinations": [
+            {
+              "name": "中山大学",
+              "count": 3,
+              "source_page": 2,
+              "source_label": "2024届硕士毕业生深造去向列表"
+            },
+            {
+              "name": "中国工程物理研究院研究生院",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士毕业生深造去向列表"
+            }
+          ],
+          "employment_destinations": [
+            {
+              "name": "中广核工程设计有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "深圳景元数宇科技有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "深圳市新凯来技术有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "深圳市南山区大湾区发展促进中心",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "中山大学",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "珠海市新东方教育培训学校有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "中国船舶集团有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "武汉航空仪表有限责任公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "生态环境部核与辐射安全中心",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "中核四〇四有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "公务人员",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "台山核电合营有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "中核国电漳州能源有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            },
+            {
+              "name": "梅河新区生态环境局",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2024届硕士就业去向列表"
+            }
+          ],
+          "industry": [
+            {
+              "name": "核能/能源",
+              "count": 8,
+              "source_page": 3,
+              "source_label": "2024届硕士就业行业分布"
+            },
+            {
+              "name": "高科技/IT",
+              "count": 2,
+              "source_page": 3,
+              "source_label": "2024届硕士就业行业分布"
+            },
+            {
+              "name": "教育/事业",
+              "count": 2,
+              "source_page": 3,
+              "source_label": "2024届硕士就业行业分布"
+            },
+            {
+              "name": "公务人员",
+              "count": 2,
+              "source_page": 3,
+              "source_label": "2024届硕士就业行业分布"
+            }
+          ],
+          "industry_percent_raw": [
+            "57.1%",
+            "14.3%",
+            "14.3%",
+            "14.3%"
+          ],
+          "uncertain_transcriptions": [
+            "深圳景元数宇科技有限公司：原扫描分辨率较低，中文中间字为视觉转写，原图同时给英文 Shenzhen Jingyuan Shuyu Technology Co., Ltd.；核心总数不受影响。"
+          ]
+        },
+        "bachelor": {
+          "total": {
+            "value": null,
+            "source_page": 3,
+            "source_label": "未给本科毕业总人数"
+          },
+          "further_study": {
+            "value": 52,
+            "source_page": 3,
+            "source_label": "52人升学去向为"
+          },
+          "work": {
+            "value": 9,
+            "source_page": 3,
+            "source_label": "选择就业的9名本科毕业生中"
+          },
+          "implementation_rate_raw": {
+            "value": "超过90%",
+            "source_page": 3,
+            "source_label": "2024届本科毕业生已落实去向率已超过90%"
+          },
+          "unresolved_count": {
+            "value": null,
+            "source_page": 3,
+            "source_label": "其余毕业生在备考研究生、申请海外留学学位以及备考公务员等"
+          },
+          "further_study_destinations": [
+            {
+              "name": "中山大学",
+              "count": 44,
+              "source_page": 3,
+              "source_label": "52人升学去向为"
+            },
+            {
+              "name": "清华大学",
+              "count": 3,
+              "source_page": 3,
+              "source_label": "52人升学去向为"
+            },
+            {
+              "name": "中国科学技术大学",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "52人升学去向为"
+            },
+            {
+              "name": "哈尔滨工程大学",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "52人升学去向为"
+            },
+            {
+              "name": "中国工程物理研究院",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "52人升学去向为"
+            },
+            {
+              "name": "核工业西南物理研究院",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "52人升学去向为"
+            },
+            {
+              "name": "墨尔本大学",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "52人升学去向为"
+            }
+          ],
+          "employment_destinations": "未逐单位列出；正文列举计算机/IT企业、核能技术企业、高校及县委组织部等。",
+          "note": "不能由“超过90%”倒推本科总人数；52+9=61为已列出升学及就业人数，不等于全部本科毕业生。"
+        },
+        "combined_master_doctoral_map": {
+          "total": {
+            "value": 23,
+            "source_page": 4,
+            "source_label": "P2018 Post-Graduates in 2024 Career Development (23)"
+          },
+          "work": {
+            "value": 19,
+            "source_page": 4,
+            "source_label": "工作 Work (19)"
+          },
+          "further_study": {
+            "value": 4,
+            "source_page": 4,
+            "source_label": "深造 Further Study (4)"
+          },
+          "note": "p3的标题明确为2024硕博毕业生就业地图。23=18位硕士+5位博士；19就业=14位硕士+5位博士。不可误当硕士23人。"
+        }
+      },
+      "中法核2025就业数据.pdf": {
+        "pages": 6,
+        "article_publication": "2026-03-21 18:43",
+        "article_title": "就业深造 | 我院2025届毕业生就业再创佳绩",
+        "master": {
+          "total": {
+            "value": 76,
+            "source_page": 1,
+            "source_label": "2025届76位硕士毕业生"
+          },
+          "work": {
+            "value": 62,
+            "source_page": 1,
+            "source_label": "81.58%（62人）就业"
+          },
+          "further_study": {
+            "value": 14,
+            "source_page": 1,
+            "source_label": "18.42%（14人）读博深造"
+          },
+          "as_of": "2026-02 (master overall); 2026-01 (PhD further study subsection)",
+          "further_study_destinations": [
+            {
+              "name": "中山大学",
+              "count": 8,
+              "source_page": 1,
+              "source_label": "2025届硕士毕业生深造去向列表"
+            },
+            {
+              "name": "上海交通大学",
+              "count": 2,
+              "source_page": 1,
+              "source_label": "2025届硕士毕业生深造去向列表"
+            },
+            {
+              "name": "电子科技大学",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士毕业生深造去向列表（续）"
+            },
+            {
+              "name": "香港理工大学",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士毕业生深造去向列表（续）"
+            },
+            {
+              "name": "东京大学",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士毕业生深造去向列表（续）"
+            },
+            {
+              "name": "中国原子能科学研究院",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士毕业生深造去向列表（续）"
+            }
+          ],
+          "employment_destinations": [
+            {
+              "name": "中国广核集团",
+              "count": 11,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中核集团",
+              "count": 4,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "江西天红科技有限公司",
+              "count": 4,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "国家电投集团",
+              "count": 3,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "深圳市新凯来技术有限公司",
+              "count": 3,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "华为技术有限公司",
+              "count": 3,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "广州众山精密科技有限公司",
+              "count": 3,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "比亚迪股份有限公司",
+              "count": 3,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "南方电网公司",
+              "count": 3,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "普联技术有限公司",
+              "count": 2,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中国科学院近代物理研究所",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "上海氩彩科技有限公司（字形待核清）",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "惠州离子科学研究中心",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "生态环境部核与辐射安全中心",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中国聚变能源有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "聚变新能（安徽）有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "明阳智慧能源集团股份公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "上海联和日环能源科技有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "宁德时代新能源科技股份有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "康明斯东亚研发有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "一道新能源科技股份有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "广州鹏冉汽车科技有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "上海电气上重铸锻有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "浙江远算科技有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中国成达工程有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "三一集团有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "Manteia数据科技有限公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "西安数峰信息科技有限责任公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "红云红河烟草（集团）有限责任公司",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "吉林省辽源市信访局",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中国共产党自贡市委员会组织部",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "深圳市南山区发展和改革局",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "珠海市人民医院",
+              "count": 1,
+              "source_page": 2,
+              "source_label": "2025届硕士就业去向图；根据整数刻度读取各柱"
+            }
+          ],
+          "industry": [
+            {
+              "name": "高科技/IT",
+              "count": 46,
+              "source_page": 3,
+              "source_label": "2025届硕士毕业生就业行业粗略分类"
+            },
+            {
+              "name": "核能/能源",
+              "count": 10,
+              "source_page": 3,
+              "source_label": "2025届硕士毕业生就业行业粗略分类"
+            },
+            {
+              "name": "科研/事业",
+              "count": 3,
+              "source_page": 3,
+              "source_label": "2025届硕士毕业生就业行业粗略分类"
+            },
+            {
+              "name": "公务员/编制",
+              "count": 3,
+              "source_page": 3,
+              "source_label": "2025届硕士毕业生就业行业粗略分类"
+            }
+          ],
+          "industry_percent_raw": [
+            "74.2%",
+            "16.1%",
+            "4.8%",
+            "4.8%"
+          ],
+          "note": "行业分类按原表逐字保留，未根据就业单位另行分类。图中中国广核集团11人即大于原行业表核能/能源10人，因此不应将原行业表当成严格可复核的单位行业映射。",
+          "uncertain_transcriptions": [
+            "上海氩彩科技有限公司：图中第二字后字形低清，标签需保留原图复核，不将名称写成已核定。全部33条柱长人数合计62，人数清楚。"
+          ]
+        },
+        "bachelor": {
+          "total": {
+            "value": null,
+            "source_page": 3,
+            "source_label": "未给本科毕业总人数"
+          },
+          "further_study": {
+            "value": 69,
+            "source_page": 3,
+            "source_label": "2025届本科毕业生升学69人"
+          },
+          "work": {
+            "value": 29,
+            "source_page": 4,
+            "source_label": "2025届本科生就业去向图（按17条柱的整数人数合计）"
+          },
+          "work_evidence_type": "由原图逐柱读取并加总，不是正文直接给出的总数。",
+          "implementation_rate_raw": {
+            "value": "超过86%",
+            "source_page": 3,
+            "source_label": "截至2025年底，2025届本科去向落实率超过86%"
+          },
+          "unresolved_count": {
+            "value": null,
+            "source_page": 3,
+            "source_label": "暂缓就业本科毕业生主要在考公务员、研究生和申请海外硕士等"
+          },
+          "as_of": "2025年底",
+          "further_study_destinations": [
+            {
+              "name": "中山大学",
+              "count": 54,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "清华大学",
+              "count": 2,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "西安交通大学",
+              "count": 2,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "中国原子能科学研究院",
+              "count": 2,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "新南威尔士大学",
+              "count": 2,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "中国科学院大学",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "哈尔滨工程大学",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "香港城市大学（东莞）",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "东京大学",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "墨尔本大学",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "曼彻斯特大学",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            },
+            {
+              "name": "东京太阳树语言学校",
+              "count": 1,
+              "source_page": 3,
+              "source_label": "2025届本科毕业生升学69人；具体去向"
+            }
+          ],
+          "employment_destinations": [
+            {
+              "name": "国家电投集团",
+              "count": 5,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "广东省教育培训公司/学校",
+              "count": 4,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "其它地区教育培训公司/学校",
+              "count": 3,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中国广核集团",
+              "count": 2,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中核集团",
+              "count": 2,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "深圳优捷绘图公司（核电工程部）",
+              "count": 2,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "华能集团山东石岛湾核电有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "广东电网能源发展有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "东方电气集团东方电机有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中国石油天然气股份有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "兰州离子仪器有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "中华人民共和国深圳海关",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "广发证券股份有限公司东莞分公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "江苏响水农商银行股份有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "上海丰禾雨木餐饮管理有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "广东微容电子科技有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            },
+            {
+              "name": "广东鹏孚隆新材料有限公司",
+              "count": 1,
+              "source_page": 4,
+              "source_label": "2025届本科生就业去向图；根据整数刻度读取各柱"
+            }
+          ],
+          "note": "69+29=98为已列明升学及就业人数，不是本科总人数。升学原表含东京太阳树语言学校，不能全称硕士录取；香港城市大学（东莞）办学地在东莞，不能只凭校名算港澳升学。未将境内外分类伪装成原有分类。"
+        }
+      }
+    }
+  }
+}

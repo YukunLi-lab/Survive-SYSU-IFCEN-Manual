@@ -1,17 +1,18 @@
 # 中山大学中法核生存手册
 
-> 一本面向中山大学中法核工程与技术学院（IFCEN）学生的开源生存手册。当前为 **v0.1.0 框架版（逐章补写）**：已补充声明与序言正文，其余章节将逐步完善。
+> 一本面向中山大学中法核工程与技术学院（IFCEN）学生的开源生存手册。当前为 **v0.1.0 框架版（逐章补写）**：已补充声明、序言与“欢迎来到中法核”，其余章节将逐步完善。
 
 ## 这个仓库是什么
 
-这是一个 GitBook 风格的纯 Markdown 仓库，用 [SUMMARY.md](SUMMARY.md) 组织全书目录。每一页都是可以直接在 GitHub 上阅读的文字，不依赖任何构建工具，也不包含 PDF、图片或二进制文件。
+这是一个 GitBook 风格的 Markdown 仓库，用 [SUMMARY.md](SUMMARY.md) 组织全书目录。正文可以直接在 GitHub 上阅读，必要的数据图随文展示，不依赖站点构建工具。原始 PDF 和构建产物不提交到仓库。
 
 ## 当前状态
 
 - 版本：v0.1.0 框架版
 - 结构：序、立志篇、访谈集、生存技巧、附录
 - 阅读页面：64 个（原有 59 页，新增 5 篇导览；不含协作文件、模板和目录文件）
-- 正文进度：[声明](xu/sheng-ming.md)与[序言](xu/xu.md)已补充；其余章节暂保留框架与写作提示
+- 正文进度：[声明](xu/sheng-ming.md)、[序言](xu/xu.md)与[欢迎来到中法核](li-zhi-pian/huan-ying-lai-dao-zhong-fa-he.md)已补充；其余章节暂保留框架与写作提示
+- 数据图：[硕士2016—2025届、本科2021—2025届去向及来源说明](data/graduate-outcomes/README.md)
 - 目录：[SUMMARY.md](SUMMARY.md)
 - 协作：[CONTRIBUTING.md](CONTRIBUTING.md)
 
@@ -45,6 +46,8 @@
 ├── fang-tan-ji/              # 访谈集；含五个主题子目录
 ├── sheng-cun-ji-qiao/        # 生存技巧
 ├── fu-lu/                    # 附录
+├── assets/figures/           # 随文展示的 PNG 数据图
+├── data/graduate-outcomes/   # 毕业去向表、来源与统计口径
 ├── templates/                # 普通章节与访谈写作模板
 ├── scripts/check_structure.py # 本地目录与链接检查
 ├── .github/                  # 检查流程、PR 模板
@@ -72,7 +75,7 @@
 python scripts/check_structure.py
 ```
 
-检查相对链接、目录覆盖、重复条目、文件命名、配置和纯文本要求。外部网站是否仍可访问、页面中的政策事实是否准确，需要单独核对。推送与提交 PR 时，GitHub Actions 会执行同一检查。
+检查相对链接、目录覆盖、重复条目、文件命名、配置、文本编码和数据图格式。PNG 数据图只放在 `assets/figures/`。外部网站是否仍可访问、页面中的政策事实是否准确，需要单独核对。推送与提交 PR 时，GitHub Actions 会执行同一检查。
 
 ## 如何贡献
 

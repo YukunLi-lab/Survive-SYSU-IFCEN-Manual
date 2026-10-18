@@ -1,6 +1,7 @@
-# 文档仓库不提交 PDF、图片和构建产物
+# 正文以 Markdown 为主；只接收 assets/figures/ 中有来源的 PNG 数据图
 *.pdf
 *.png
+!/assets/figures/*.png
 *.jpg
 *.jpeg
 *.gif
