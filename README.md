@@ -1,6 +1,6 @@
 # 中山大学中法核生存手册
 
-> 一本面向中山大学中法核工程与技术学院（IFCEN）学生的开源生存手册。当前为 **v0.1.0 框架版（逐章补写）**：已补充声明、序言与“欢迎来到中法核”，其余章节将逐步完善。
+> 一本面向中山大学中法核工程与技术学院（IFCEN）学生的开源生存手册。当前为 **v0.1.0 框架版（逐章补写）**：已补充声明、序言与“欢迎来到中法核”；“中班与法班：风味合办”已补写班级对比，工程师教育部分待补充，其余章节将逐步完善。
 
 ## 这个仓库是什么
 
@@ -11,7 +11,7 @@
 - 版本：v0.1.0 框架版
 - 结构：序、立志篇、访谈集、生存技巧、附录
 - 阅读页面：64 个（原有 59 页，新增 5 篇导览；不含协作文件、模板和目录文件）
-- 正文进度：[声明](xu/sheng-ming.md)、[序言](xu/xu.md)与[欢迎来到中法核](li-zhi-pian/huan-ying-lai-dao-zhong-fa-he.md)已补充；其余章节暂保留框架与写作提示
+- 正文进度：[声明](xu/sheng-ming.md)、[序言](xu/xu.md)与[欢迎来到中法核](li-zhi-pian/huan-ying-lai-dao-zhong-fa-he.md)已补充；[中班与法班：风味合办](li-zhi-pian/xue-yuan-yu-zhuan-ye-su-lan.md)已补写班级对比，工程师教育部分待补充；其余章节暂保留框架与写作提示
 - 数据图：[硕士2016—2025届、本科2021—2025届去向及来源说明](data/graduate-outcomes/README.md)
 - 目录：[SUMMARY.md](SUMMARY.md)
 - 协作：[CONTRIBUTING.md](CONTRIBUTING.md)
@@ -31,7 +31,7 @@
 ## 怎么读
 
 - **刚入学**：先读[序](xu/xu.md)和[使用说明](xu/shi-yong-shuo-ming.md)，再看[新生第一年](li-zhi-pian/xin-sheng-di-yi-nian.md)。
-- **想了解专业**：从[学院与专业速览](li-zhi-pian/xue-yuan-yu-zhuan-ye-su-lan.md)开始。
+- **想了解专业**：从[中班与法班：风味合办](li-zhi-pian/xue-yuan-yu-zhuan-ye-su-lan.md)开始。
 - **准备实习或升学**：直接跳到[实习与实践](sheng-cun-ji-qiao/shi-xi-yu-shi-jian.md)和[深造与职业选择](sheng-cun-ji-qiao/shen-zao-yu-zhi-ye-xuan-ze.md)。
 - **想参与写作**：先读[贡献指南](CONTRIBUTING.md)，再从任意“待补充”页面开始。
 

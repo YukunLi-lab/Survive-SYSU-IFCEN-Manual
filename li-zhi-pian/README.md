@@ -2,12 +2,12 @@
 
 从学院与专业、新生第一年出发，逐步认识大学学习与长期选择。
 
-> [欢迎来到中法核](huan-ying-lai-dao-zhong-fa-he.md)已补充正文和毕业去向图表；其余章节仍待补充。本页提供立志篇的阅读导航。
+> [欢迎来到中法核](huan-ying-lai-dao-zhong-fa-he.md)已补充正文和毕业去向图表；[中班与法班：风味合办](xue-yuan-yu-zhuan-ye-su-lan.md)已补写班级对比，工程师教育部分待补充；其余章节仍待补充。本页提供立志篇的阅读导航。
 
 ## 本篇目录
 
 * [欢迎来到中法核](huan-ying-lai-dao-zhong-fa-he.md)
-* [学院与专业速览](xue-yuan-yu-zhuan-ye-su-lan.md)
+* [中班与法班：风味合办](xue-yuan-yu-zhuan-ye-su-lan.md)
 * [新生第一年](xin-sheng-di-yi-nian.md)
 * [你想成为怎样的核工程师](ni-xiang-cheng-wei-zen-yang-de-he-gong-cheng-shi.md)
 * [失败的思维方式](shi-bai-de-si-wei-fang-shi/README.md)

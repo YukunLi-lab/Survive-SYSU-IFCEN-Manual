@@ -13,7 +13,7 @@
 
 * [立志篇导览](li-zhi-pian/README.md)
   * [欢迎来到中法核](li-zhi-pian/huan-ying-lai-dao-zhong-fa-he.md)
-  * [学院与专业速览](li-zhi-pian/xue-yuan-yu-zhuan-ye-su-lan.md)
+  * [中班与法班：风味合办](li-zhi-pian/xue-yuan-yu-zhuan-ye-su-lan.md)
   * [新生第一年](li-zhi-pian/xin-sheng-di-yi-nian.md)
   * [你想成为怎样的核工程师](li-zhi-pian/ni-xiang-cheng-wei-zen-yang-de-he-gong-cheng-shi.md)
   * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
