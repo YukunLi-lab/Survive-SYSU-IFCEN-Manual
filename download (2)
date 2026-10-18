@@ -1,0 +1,19 @@
+# 文档仓库不提交 PDF、图片和构建产物
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+_book/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# 本地检查缓存与编辑器临时文件
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+*~

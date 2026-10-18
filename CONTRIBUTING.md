@@ -22,7 +22,8 @@
 2. 在对应目录新建或修改 `.md` 文件。
 3. 在 `SUMMARY.md` 中加入或调整链接。
 4. 用 Markdown 编辑器预览，确认相对链接可以跳转。
-5. 提交 Pull Request。
+5. 在仓库根目录运行 `python scripts/check_structure.py`（Python 3.10+），确认检查通过。
+6. 提交 Pull Request，等待内容审阅。
 
 分支名建议：
 
@@ -42,6 +43,17 @@
    * [选课原则与选课技巧](sheng-cun-ji-qiao/xuan-ke-yuan-ze-yu-xuan-ke-ji-qiao.md)
    ```
 4. 如果这一页属于某个分组，再在分组的 `README.md` 的“本组页面”里加一条链接。
+
+## 目录规则
+
+- 正文保留在 `xu/`、`li-zhi-pian/`、`fang-tan-ji/`、`sheng-cun-ji-qiao/`、`fu-lu/` 五个部分中。
+- 每个部分和主题子目录都有 `README.md`；根目录的 `README.md` 专用于手册首页。
+- 章节顺序由 `SUMMARY.md` 决定，每个阅读页面只登记一次；新增页面也要加入所属导览。
+- 文件名继续使用小写拼音和连字符，保留 `README.md`、`SUMMARY.md` 等约定名称。
+- 上传时保留完整文件夹层级和以点开头的配置文件。不要把子目录中的文件平铺上传，也不要把多个 `README.md` 改成编号副本。
+- 根目录 `CONTRIBUTING.md` 和 `CHANGELOG.md` 分别是协作规则、版本记录的维护入口，附录页链接到它们。
+- 普通章节模板见 [templates/page.md](templates/page.md)，访谈模板见 [templates/interview.md](templates/interview.md)。复制后按新页面的层级调整相对链接。
+- `.github/workflows/check-structure.yml` 只执行结构检查；电子书构建和发布可在正文成熟后另行增加。
 
 ## 页面模板
 
@@ -99,7 +111,8 @@ docs: update SUMMARY
 ## PR 检查清单
 
 - [ ] 页面标题、`SUMMARY.md` 链接和文件路径一致
-- [ ] 相对链接可以跳转，没有死链
+- [ ] 相对链接可以跳转，`python scripts/check_structure.py` 通过
+- [ ] 所属篇章或主题导览已经加入新页面；文件夹层级与隐藏配置完整
 - [ ] 政策信息注明来源和查询日期
 - [ ] 不包含个人隐私、未公开信息或涉密内容
 - [ ] 没有提交 PDF、图片或其他二进制文件

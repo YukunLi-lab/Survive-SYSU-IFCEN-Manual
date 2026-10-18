@@ -1,10 +1,10 @@
-# 转专业与跨行
+# 核电行业从业者
 
 > 状态：本组页面先保留目录结构，正文待补充。
 
 ## 本节要回答的问题
 
-- “转专业与跨行”这一组要覆盖哪些子主题？
+- “核电行业从业者”这一组要覆盖哪些子主题？
 - 哪些内容适合单独成页，哪些可以合并？
 - 读者应该按什么顺序阅读这一组页面？
 
@@ -17,8 +17,8 @@
 
 ## 本组页面
 
-- [转专业前要想清楚什么](zhuan-zhuan-ye-qian-yao-xiang-qing-chu-shen-me.md)
-- [从核工程到其他行业](cong-he-gong-cheng-dao-qi-ta-hang-ye.md)
+- [运行、设计、研发与监管](yun-xing-she-ji-yan-fa-yu-jian-guan.md)
+- [从校园到岗位](cong-xiao-yuan-dao-gang-wei.md)
 
 ---
 
