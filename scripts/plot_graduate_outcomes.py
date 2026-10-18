@@ -73,7 +73,7 @@ def masters_chart(output):
     fig.legend(handles=legend,loc='upper left',bbox_to_anchor=(.11,.867),ncol=3,frameon=False,fontsize=11,columnspacing=1.6,handlelength=1.8)
     notes=[
         '†2018深造栏含待定1人；2021工作栏含待定1人。2024本届无专业硕士毕业生。',
-        '“深造”还包括读硕等去向，不能一概称为读博；各年统计时间和样本构成不同。',
+        '2016、2017深造栏分别含再次读硕1人、3人；各届人数与统计版本见正文。',
     ]
     for y,text in zip([.115,.065],notes):
         fig.text(.055,y,text,fontsize=10,color=GREY)
@@ -87,7 +87,7 @@ def undergraduate_chart(output):
     left=fig.add_axes([.12,.28,.46,.44])
     right=fig.add_axes([.69,.28,.25,.44])
     fig.text(.055,.948,'本科毕业去向',fontsize=23,fontweight='bold',color=INK)
-    fig.text(.055,.896,'2021-2025届  |  只展示资料已给出的人数，不反推毕业总人数',fontsize=13,color=GREY)
+    fig.text(.055,.896,'2021-2025届  |  升学按办学地统计，就业按报告与单位清单汇总',fontsize=13,color=GREY)
     left.set_title('已列“升学”人数：按办学地整理',loc='left',fontsize=12,color=INK,pad=30)
     right.set_title('已列就业人数',loc='left',fontsize=12,color=INK,pad=30)
     for i,row in enumerate(records):
@@ -113,9 +113,9 @@ def undergraduate_chart(output):
     style_axis(right,36,[0,10,20,30])
     fig.legend(handles=[Patch(facecolor=BLUE,label='内地'),Patch(facecolor=ORANGE,label='内地以外（含香港）')],loc='upper left',bbox_to_anchor=(.115,.858),ncol=2,frameon=False,fontsize=11)
     notes=[
-        '*2025已列就业29人；2021-2023未给就业人数，不能按零处理。',
-        '2024内地以外1人；2025“升学”69人包含语言学校1人，不能全部称为研究生录取。',
-        '未披露本科总人数，因此升学与就业不拼成100%去向图；去向落实率也不等同于升学率。',
+        '*2025就业29人为17个单位人数合计；2021-2023未披露就业人数。',
+        '2024内地以外1人；2025升学69人，其中高校及科研机构68人、语言学校1人。',
+        '升学率与去向落实率分别统计；各届升学机构和就业单位见正文及完整清单。',
     ]
     for y,text in zip([.16,.105,.05],notes):
         fig.text(.055,y,text,fontsize=10,color=GREY)

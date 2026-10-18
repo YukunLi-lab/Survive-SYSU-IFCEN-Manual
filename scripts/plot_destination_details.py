@@ -79,10 +79,10 @@ def employment(degree, title, name):
     matrix(ax,rows,EMPLOYERS,['中广核','中核','国家电投\n（国电投）','华能','其他单位','单位未明','合计'],60 if degree=='master' else 20,[4,6])
     if degree=='master':
         notes=['单位未明：2019、2020各差1人；2025有1人单位名不清。0表示明细中未列该集团。',
-               '2021细分46人；该届总览为51人，属于不同统计快照，不能逐栏相减。']
+               '2021就业细分46人，总览工作栏51人；两版统计分别保留。']
     else:
         notes=['— 表示未披露或无法归组；2021—2023就业总数未知，2024只披露就业9人。',
-               '2025各单位合计29人；这些人数不能用于推算未披露的本科毕业总数。']
+               '2025各单位合计29人，其中四个单列集团10人、其他单位19人。']
     for y,t in zip([.115,.055],notes):fig.text(.06,y,t,fontsize=10.5,color=GREY)
     save(fig,name)
 
@@ -107,8 +107,8 @@ def schools(degree,title,name):
 
 def degrees():
     fig=plt.figure(figsize=(13.8,9.2),facecolor='white')
-    fig.text(.045,.95,'继续深造：目标学位能确认到哪一步？',fontsize=23,fontweight='bold',color=INK)
-    fig.text(.045,.899,'按附件明确标签计数；不根据毕业时的学历推断下一阶段学位  |  单位：人',fontsize=12,color=GREY)
+    fig.text(.045,.95,'继续深造：硕士、博士与其他学习去向',fontsize=23,fontweight='bold',color=INK)
+    fig.text(.045,.899,'目标学位按名单标签统计  |  单位：人',fontsize=12,color=GREY)
     labels=['博士','硕士','学位\n未注明','语言学校\n（非学位）','待定','合计']
     for degree,rect,title,limit in [
         ('master',[.075,.23,.415,.55],'硕士毕业生 · 2016—2025届',15),
@@ -117,7 +117,7 @@ def degrees():
         matrix(ax,records('degree-types.csv',degree),DEGREES,labels,limit,[5])
         fig.text(rect[0],.849,title,fontsize=13,fontweight='bold',color=INK)
     fig.text(.045,.13,'硕士毕业生：明确读博143人、再读硕士4人、待定1人。',fontsize=12,color=INK)
-    fig.text(.045,.075,'本科毕业生：268人仅注明“升学”、未写目标学位；另有语言学校1人。0表示明确标签人数为0。',fontsize=11,color=GREY)
+    fig.text(.045,.075,'本科毕业生：268人未注明目标学位，语言学校1人。',fontsize=11,color=GREY)
     save(fig,'further-study-degree-types.png')
 
 
